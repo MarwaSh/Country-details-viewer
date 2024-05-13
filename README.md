@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Country Details Viewer Application
 
 This Angular web application enables users to search for details about various countries using a user-friendly interface. It fetches data from the REST Countries API, providing information such as flags, population, languages, and currencies.
@@ -47,3 +48,7 @@ The application should now be running and accessible for searching country detai
 
 
 
+=======
+# Country-details-viewer
+This Angular web application enables users to search for details about various countries using a user-friendly interface. It fetches data from the REST Countries API, providing information such as flags, population, languages, and currencies.
+>>>>>>> 1117217b89fb889f01da12f15b22603041b72b25
